@@ -1,5 +1,5 @@
 body {
-    margin: auto;
+    margin: auto; !important;
     max-width: 990px
 }
 
@@ -9,12 +9,11 @@ body {
 }
 
 .head-image {
-    position: relative;
-    top: 150px;
     width: 100%;
-    margin-bottom: 150px;
+    max-width: 400px;
 }
 
+/* This is the original slideshow designed for 4 pictures. For 2, I simply repeat the two img tags*/
 @keyframes slideshow {
     0% {
         opacity: 0;
@@ -39,6 +38,7 @@ body {
     animation-delay: 0s;
     animation-duration: 20s;
     animation-iteration-count: infinite;
+    position: relative;
     z-index: 1;
 }
 
