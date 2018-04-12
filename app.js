@@ -1,10 +1,10 @@
-const app = angular.module("mainApp", ["ngRoute"]);
+angular.module("mainApp", ["ngRoute"])
 
-app.config(["$routeProvider", function ($routeProvider) {
+.config(["$routeProvider", function ($routeProvider) {
 
     $routeProvider
         .when("/home", {
-            templateUrl: "components/home/home.html",
+            templateUrl: "components/home/about.html",
             controller: "homeCtrl"
         })
         .when("/faq", {
