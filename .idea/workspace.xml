@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ba1678-2c35-466e-b3fc-2a3a9d671367" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="94" column="78" selection-start-line="94" selection-start-column="78" selection-end-line="94" selection-end-column="78" />
+            <state relative-caret-position="397">
+              <caret line="103" column="7" lean-forward="true" selection-start-line="103" selection-start-column="7" selection-end-line="103" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -154,16 +153,15 @@
       <workItem from="1523048720222" duration="2004000" />
       <workItem from="1523050805645" duration="4033000" />
       <workItem from="1523369569258" duration="3704000" />
-      <workItem from="1523392941830" duration="3862000" />
+      <workItem from="1523392941830" duration="5358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17759000" />
+    <option name="totallyTimeSpent" value="19255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="343" y="28" width="1376" height="975" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19207773" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -354,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="94" column="78" selection-start-line="94" selection-start-column="78" selection-end-line="94" selection-end-column="78" />
+        <state relative-caret-position="397">
+          <caret line="103" column="7" lean-forward="true" selection-start-line="103" selection-start-column="7" selection-end-line="103" selection-end-column="7" />
         </state>
       </provider>
     </entry>
