@@ -44,6 +44,10 @@ body {
     height: 25px;
 }
 
+.main-section-spacing {
+    padding-top: 50px;
+}
+
 /* This is the original slideshow designed for 4 pictures. For 2, I simply repeat the two img tags*/
 @keyframes slideshow {
     0% {
