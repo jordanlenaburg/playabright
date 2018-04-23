@@ -24,7 +24,9 @@ body {
     background-color: rgba(255, 255, 255, .6);
     min-height: 100vh;
     height: 100%;
-    min-width: 100%;
+    width: 80%;
+    min-width: 768px;
+    margin: auto;
 }
 
 .content {
@@ -33,6 +35,10 @@ body {
 
 .container {
     padding-bottom: 40px;
+}
+
+.product-image {
+    width: 250px;
 }
 
 .foot {
