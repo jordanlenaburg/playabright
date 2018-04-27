@@ -56,12 +56,13 @@ body {
 }
 
 .img-proj {
-    width: 150px;
+    height: 300px;
+    margin: 15px;
     transition-property: width;
     transition-duration: 1s;
 }
 
-.img-proj:hover {
-    width: 100%;
+/*.img-proj:hover {*/
+    /*width: 100%;*/
 
-}
+/*}*/
